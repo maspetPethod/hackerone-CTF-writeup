@@ -2,6 +2,6 @@
 
 2. look closely you will find something interesting, in the source page you will find something link image but on page no image view then go to url
 
-![alt text][img/sourcePage.png]
+![alt text](img/sourcePage.png)
 
 3. try to https://yourID.ctf.hacker101.com/background.png after run it you will find flags like this --> ^FLAG^random number$FLAG$
